@@ -16,11 +16,14 @@
 🚀 Projects
 - Single Page CV
 - Basic HTML Website
+- Blog-Post-Page
+- pricing-comparison-table 
 
 🔗 Portfolio
 https://kosariyadhanesh.github.io/Basic-HTML-Website/
-- Roadmap.sh: https://roadmap.sh/u/kosariyadhaneh
+
 
 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/dhanesh-kosariya-0744031b8/
+- Roadmap.sh: https://roadmap.sh/u/kosariyadhaneh
 - Instagram: https://www.instagram.com/dhaneshkosariya_/
