@@ -1,222 +1,448 @@
 # 👋 Hi, I'm Dhanesh Kosariya!
 
-> 🎓 **BCA Student** | 💻 **Aspiring MERN Stack Developer** | 🌱 **Continuous Learner**
+> 🎓 **BCA Student** | 💻 **MERN Stack Developer in Making** | 🚀 **On a Learning Journey**
+
+---
+
+## 📊 Developer Dashboard
+
+<div align="center">
+
+### 🎯 Current Status: **CSS Mastery Phase**
+
+```
+MERN Stack Learning Journey
+
+[████████░░░░░░░░░░░░░░░░░░] 20% Complete
+
+Phase 1: HTML Fundamentals      ✅ COMPLETED
+Phase 2: CSS & Styling          🔄 IN PROGRESS (Current)
+Phase 3: JavaScript Mastery     ⏳ UPCOMING
+Phase 4: React.js               ⏳ UPCOMING
+Phase 5: Backend (Node.js)      ⏳ UPCOMING
+Phase 6: Database (MongoDB)     ⏳ UPCOMING
+Phase 7: Full Stack Projects    ⏳ FINAL
+```
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer from India, currently pursuing my Bachelor of Computer Applications (BCA). I'm on a journey to master full-stack web development and build meaningful projects that solve real-world problems.
+I'm a passionate developer from India, currently pursuing my Bachelor of Computer Applications (BCA). I'm on an exciting journey to become a MERN Stack Developer, building real-world projects and mastering modern web technologies.
 
-**Currently Learning:**
-- ⚡ **Frontend:** HTML5, CSS3, JavaScript, React.js
-- 🔧 **Backend:** Node.js, Express.js
-- 💾 **Database:** MongoDB
-- 🎨 **UI/UX:** Responsive Design, Semantic HTML
+**My Vision:** Build scalable, user-friendly web applications that solve real problems.
 
 ---
 
 ## 💼 Featured Projects
 
-### 🎯 HTML Mastery Series
-Building strong fundamentals with semantic HTML projects:
+### 📚 HTML Foundation Series (Completed)
 
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| 📄 [Single Page CV](https://github.com/kosariyadhanesh/single-page-cv) | Clean CV showcasing HTML best practices | [View](https://kosariyadhanesh.github.io/single-page-cv/) |
-| 📝 [Blog Post Page](https://github.com/kosariyadhanesh/blog-post-page) | Responsive blog with accessibility features | [View](https://kosariyadhanesh.github.io/blog-post-page/) |
-| 📋 [Student Admission Form](https://github.com/kosariyadhanesh/student-admission-form-html) | Semantic form with proper structure | [View](https://kosariyadhanesh.github.io/student-admission-form-html/) |
-| 💰 [Pricing Comparison Table](https://github.com/kosariyadhanesh/pricing-comparison-table) | Complex table layout with semantic HTML | [View](https://kosariyadhanesh.github.io/pricing-comparison-table/) |
-| 🌐 [Basic HTML Website](https://github.com/kosariyadhanesh/basic-html-website) | Multi-page website structure | [View](https://kosariyadhanesh.github.io/basic-html-website/) |
-| 📸 [Photo Showcase](https://github.com/kosariyadhanesh/photo-showcase) | Image gallery with semantic markup | [View](https://kosariyadhanesh.github.io/photo-showcase/) |
+| Project | Description | Tech | Live Demo |
+|---------|-------------|------|-----------|
+| 📄 [Single Page CV](https://github.com/kosariyadhanesh/single-page-cv) | Portfolio CV with semantic HTML | HTML5 | [View](https://kosariyadhanesh.github.io/single-page-cv/) |
+| 📝 [Blog Post Page](https://github.com/kosariyadhanesh/blog-post-page) | Responsive blog structure | HTML5 | [View](https://kosariyadhanesh.github.io/blog-post-page/) |
+| 📋 [Student Admission Form](https://github.com/kosariyadhanesh/student-admission-form-html) | Semantic form design | HTML5 | [View](https://kosariyadhanesh.github.io/student-admission-form-html/) |
+| 💰 [Pricing Table](https://github.com/kosariyadhanesh/pricing-comparison-table) | Complex table layouts | HTML5 | [View](https://kosariyadhanesh.github.io/pricing-comparison-table/) |
+| 🌐 [Multi-Page Website](https://github.com/kosariyadhanesh/basic-html-website) | Full website structure | HTML5 | [View](https://kosariyadhanesh.github.io/basic-html-website/) |
+| 📸 [Photo Showcase](https://github.com/kosariyadhanesh/photo-showcase) | Image gallery markup | HTML5 | [View](https://kosariyadhanesh.github.io/photo-showcase/) |
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ MERN Stack Tech Arsenal
 
-### 💻 **Frontend Development**
+### Phase 1: ✅ HTML Fundamentals
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+**100% Proficiency** | 6 Projects Completed
 
 </div>
 
-**Key Competencies:**
-- ✅ Semantic HTML5 & Accessibility (a11y)
-- ✅ CSS3 - Flexbox, Grid, Animations, Responsive Design
-- ✅ Vanilla JavaScript - DOM Manipulation, ES6+
-- ✅ React.js - Components, Hooks, State Management (Learning)
+**Mastered:**
+- ✅ Semantic HTML5 Elements
+- ✅ Accessibility (a11y) Standards
+- ✅ SEO-Friendly Markup
+- ✅ Form Design & Validation
+- ✅ Tables & Complex Layouts
 
-### 🔧 **Backend Development**
+---
+
+### Phase 2: 🔄 CSS & Styling (Current Focus)
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**20% Proficiency** | Learning in Progress
 
 </div>
 
 **Currently Learning:**
-- 🎯 Server-side development with Node.js
-- 🎯 RESTful API Design with Express.js
-- 🎯 Middleware & Authentication
+- 🎯 CSS3 Fundamentals
+- 🎯 Flexbox Layout System
+- 🎯 CSS Grid
+- 🎯 Responsive Design (Mobile-First)
+- 🎯 Animations & Transitions
+- 🎯 CSS Variables
+- 🎯 Preprocessors (SASS/SCSS)
 
-### 💾 **Database**
+**Upcoming Projects:**
+- 📌 Responsive Navigation Bar
+- 📌 Flexbox Gallery
+- 📌 CSS Grid Dashboard
+- 📌 Animated Landing Page
+- 📌 Mobile Responsive Website
+
+---
+
+### Phase 3: ⏳ JavaScript Fundamentals (Next)
 
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**0% Proficiency** | Coming Soon
 
 </div>
 
-**Focus Areas:**
-- 🎯 Document-based database design
-- 🎯 Schema creation & validation
-- 🎯 CRUD operations
+**Will Learn:**
+- DOM Manipulation
+- Event Handling
+- ES6+ Features
+- Async/Await & Promises
+- API Interactions (Fetch)
+- Object-Oriented Programming
 
-### 🛠️ **Developer Tools & Platforms**
+---
+
+### Phase 4: ⏳ Frontend Framework - React
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+**0% Proficiency** | After JavaScript
 
 </div>
 
-**Tools & Platforms:**
-- 📌 Version Control: Git & GitHub
-- 📌 Code Editor: VS Code
-- 📌 Hosting: GitHub Pages
-- 📌 Learning Path: Roadmap.sh
+**Will Master:**
+- React Basics (JSX, Components)
+- Hooks (useState, useEffect, useContext)
+- State Management
+- React Router
+- Performance Optimization
 
 ---
 
-## 📈 Learning Roadmap
+### Phase 5: ⏳ Backend - Node.js & Express
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+**0% Proficiency** | After React
+
+</div>
+
+**Will Learn:**
+- Server Setup with Express
+- RESTful API Design
+- Middleware & Authentication
+- Error Handling
+
+---
+
+### Phase 6: ⏳ Database - MongoDB
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**0% Proficiency** | After Backend Basics
+
+</div>
+
+**Will Master:**
+- Document Design
+- CRUD Operations
+- Schema Validation
+- Indexing & Performance
+
+---
+
+### Phase 7: ⏳ Developer Tools
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+
+**Proficiency:**
+- ✅ Version Control (Git & GitHub)
+- ✅ Code Editor (VS Code)
+- ✅ Package Manager (NPM) - Learning
+- 🎯 API Testing (Postman) - Learning
+- 🎯 Dev Tools & Debugging - Learning
+
+---
+
+## 📈 Learning Timeline & Milestones
 
 ```
-HTML Foundation ✅
-    ↓
-CSS & Responsive Design (In Progress)
-    ↓
-JavaScript Mastery (Next)
-    ↓
-Frontend Framework - React
-    ↓
-Backend - Node.js & Express
-    ↓
-Database - MongoDB
-    ↓
-Full Stack Projects (MERN)
+WEEK 1-2:   HTML Fundamentals          ✅ DONE (6 Projects)
+            │
+            └─→ Creating semantic HTML, forms, and structures
+
+WEEK 3-4:   CSS Basics & Layouts       🔄 IN PROGRESS
+            │
+            └─→ Flexbox, Grid, Responsive Design
+            
+WEEK 5-6:   CSS Advanced & Animation   ⏳ NEXT
+            │
+            └─→ Animations, Transitions, SASS
+
+WEEK 7-8:   JavaScript Fundamentals    ⏳ UPCOMING
+            │
+            └─→ DOM, Events, ES6+
+
+WEEK 9-12:  React.js Mastery           ⏳ UPCOMING
+            │
+            └─→ Components, Hooks, Router
+
+WEEK 13-16: Backend with Node & Express ⏳ UPCOMING
+            │
+            └─→ APIs, Middleware, Authentication
+
+WEEK 17-20: MongoDB & Database Design  ⏳ UPCOMING
+            │
+            └─→ CRUD, Schema, Optimization
+
+WEEK 21+:   Full Stack Projects        ⏳ FINAL GOAL
+            │
+            └─→ Complete MERN Applications
 ```
 
-**Progress:** 15% → 20% Complete 🚀
+---
+
+## 📊 Learning Statistics
+
+| Metric | Current | Target |
+|--------|---------|--------|
+| **Total Hours Invested** | 40+ | 500+ |
+| **Projects Completed** | 6 | 50+ |
+| **GitHub Stars** | 7 ⭐ | 100+ |
+| **Phase Completion** | 20% | 100% |
+| **Consistency** | 🔥 Daily | 🔥 Daily |
+| **Code Commits** | 50+ | 1000+ |
 
 ---
 
-## 🎓 Education & Development
+## 🎯 My MERN Journey Roadmap
 
-- **Current:** BCA (Bachelor of Computer Applications)
-- **Learning Path:** Following [Roadmap.sh](https://roadmap.sh/u/kosariyadhanesh) for structured learning
-- **Focus:** Building practical projects while learning
-- **Commitment:** Daily coding & continuous improvement
+```
+START HERE
+    ↓
+┌─────────────────────────────────┐
+│  1️⃣  HTML FUNDAMENTALS         │  ✅ DONE
+│     └─ 6 Semantic Projects     │
+└─────────────────────────────────┘
+    ↓
+┌─────────────────────────────────┐
+│  2️⃣  CSS & RESPONSIVE DESIGN   │  🔄 NOW
+│     └─ Flexbox, Grid, Animations │
+│     └─ 5 CSS Projects Coming   │
+└─────────────────────────────────┘
+    ↓
+┌─────────────────────────────────┐
+│  3️⃣  JAVASCRIPT MASTERY        │  ⏳ NEXT
+│     └─ DOM, Events, ES6+       │
+│     └─ 10 JavaScript Projects  │
+└─────────────────────────────────┘
+    ↓
+┌─────────────────────────────────┐
+│  4️⃣  REACT.JS FRAMEWORK        │  ⏳ SOON
+│     └─ Components, Hooks       │
+│     └─ 5 React Projects        │
+└─────────────────────────────────┘
+    ↓
+┌─────────────────────────────────┐
+│  5️⃣  BACKEND (Node + Express)  │  ⏳ LATER
+│     └─ APIs, Middleware        │
+│     └─ Authentication          │
+└─────────────────────────────────┘
+    ↓
+┌─────────────────────────────────┐
+│  6️⃣  DATABASE (MongoDB)        │  ⏳ LATER
+│     └─ Document Design         │
+│     └─ Schema Validation       │
+└─────────────────────────────────┘
+    ↓
+┌─────────────────────────────────┐
+│  7️⃣  FULL STACK PROJECTS       │  🎯 GOAL
+│     └─ Complete MERN Apps      │
+│     └─ Deploy to Production    │
+└─────────────────────────────────┘
+    ↓
+🚀 BECOME A FULL STACK DEVELOPER
+```
 
 ---
 
-## 📊 GitHub Activity
+## 💡 My Learning Philosophy
 
-All my projects are public and available on [GitHub](https://github.com/kosariyadhanesh). I'm actively learning and pushing code regularly. Check out my repositories to see my learning journey!
+- 🎯 **Learn by Building** - Every concept gets a project
+- 📚 **Structured Learning** - Follow Roadmap.sh + Official Docs
+- 🤝 **Community Engagement** - Share knowledge & get feedback
+- 🔄 **Consistent Practice** - Code every single day
+- 📖 **Document Everything** - Keep detailed README files
+- ⭐ **Quality Over Quantity** - Better code > more projects
+
+---
+
+## 🎓 Education & Resources
+
+- **Education:** BCA (Bachelor of Computer Applications)
+- **Primary Learning Path:** [Roadmap.sh](https://roadmap.sh/frontend)
+- **Documentation:** MDN Web Docs, Official Docs
+- **Practice:** LeetCode, HackerRank (When JavaScript starts)
+- **Communities:** Dev.to, Stack Overflow, Reddit
 
 ---
 
 ## 🤝 Let's Connect!
 
 I'm always open to:
-- 💬 Discussions about web development
+- 💬 Discussions about web development & MERN stack
 - 🤝 Collaboration on projects
 - 📚 Learning from experienced developers
-- 💡 Feedback on my projects
+- 💡 Feedback on my learning journey
+- 👥 Mentorship & guidance
 
 ### Connect With Me:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanesh-kosariya-0744031b8/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kosariyadhanesh)
-[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/kosariyadhanesh)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhaneshkosariya.mac@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanesh-kosariya-0744031b8/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kosariyadhanesh)
+[![Roadmap.sh](https://img.shields.io/badge/-Roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/kosariyadhanesh)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhaneshkosariya.mac@gmail.com)
 
 </div>
 
 ---
 
-## 💡 My Learning Philosophy
+## 📱 Current Focus
 
-- 🎯 **Learn by Building** - Creating real projects to master concepts
-- 📚 **Consistent Practice** - Daily coding and learning
-- 🤝 **Community Engagement** - Learning from others and sharing knowledge
-- 🔄 **Iterate & Improve** - Refactoring and enhancing projects over time
+### 🔴 **RIGHT NOW: CSS Phase**
 
----
+**This Week's Tasks:**
+- [ ] Learn CSS Grid & Flexbox in depth
+- [ ] Create 2 responsive projects
+- [ ] Study CSS animations
+- [ ] Build responsive navigation
+- [ ] Practice media queries
 
-## ⭐ Project Highlights
-
-### Featured Repositories (All Starred ⭐)
-- 🌟 6 HTML Learning Projects
-- 🌟 GitHub Pages Hosting
-- 🌟 Semantic Markup Focus
-- 🌟 Accessibility Best Practices
-
----
-
-## 📈 Stats & Milestones
-
-| Metric | Value |
-|--------|-------|
-| **Total Projects** | 7 |
-| **All Starred** | ✅ |
-| **Stars** | 7 ⭐ |
-| **HTML Projects** | 6 |
-| **Learning Status** | 🔥 Active |
-| **Commits** | 50+ |
-| **Repositories** | All Public |
+**This Month's Goals:**
+- [ ] Complete 5 CSS Projects
+- [ ] Master responsive design
+- [ ] Understand SASS/SCSS basics
+- [ ] Build 2 full responsive websites
+- [ ] Create CSS portfolio pieces
 
 ---
 
-## 🎯 Next Goals
+## 🎯 Projects Coming Soon
 
-- ✅ ~~Master HTML Fundamentals~~ (In Progress)
-- 🔄 Build 5+ CSS Projects
-- 🔄 Create 10+ JavaScript Projects
-- ⏳ Learn React.js
-- ⏳ Build Full-Stack Applications
-- ⏳ Contribute to Open Source
+### 🎨 CSS Phase Projects (Next)
+1. 📱 **Responsive Portfolio Website**
+2. 🎬 **Animated Landing Page**
+3. 📊 **CSS Grid Dashboard**
+4. 🍔 **Restaurant Website (Responsive)**
+5. 🛍️ **E-commerce Product Page**
+
+### 💻 JavaScript Phase Projects (After CSS)
+1. 📝 Todo Application
+2. 🌤️ Weather App (API Integration)
+3. 🎮 Tic Tac Toe Game
+4. 📊 Calculator
+5. 🎬 Movie Search App
+
+### ⚛️ React Phase Projects (After JavaScript)
+1. 📱 Social Media Dashboard
+2. 🛒 E-commerce Application
+3. 📝 Blog Platform
+4. 💬 Chat Application
+5. 📊 Analytics Dashboard
+
+### 🚀 Full Stack Projects (MERN Complete)
+1. 🌐 Complete Social Network
+2. 💼 Project Management Tool
+3. 📚 Learning Platform
+4. 🏪 Full E-commerce Store
+5. 🎯 Your Dream Project
 
 ---
 
-## 💬 Let's Code Together!
+## ✨ Project Showcase
 
-I'm passionate about learning and building. If you're interested in:
-- 👥 Mentorship or guidance
-- 🤝 Collaboration
-- 💼 Opportunities
-- 📞 General discussion
+<div align="center">
 
-Feel free to reach out! I'm always happy to connect with fellow developers.
+### ⭐ HTML Projects (6 Completed)
+All projects deployed on GitHub Pages with live demos
+
+### 🎨 CSS Projects (Coming Soon)
+Beautiful, responsive designs ready to showcase
+
+### 💻 Full Stack Projects (Future Goal)
+Production-ready applications
+
+</div>
+
+---
+
+## 📈 Progress Metrics
+
+```
+Overall Progress: [████████░░░░░░░░░░░░░░░░░░░░] 20%
+
+HTML:       [██████████░░░░░░░░░░░░░░░░░░░░] 100%
+CSS:        [████░░░░░░░░░░░░░░░░░░░░░░░░░] 20%
+JavaScript: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+React:      [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+Node.js:    [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+MongoDB:    [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+Full Stack: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+```
+
+---
+
+## 🎊 Let's Grow Together!
+
+Thank you for visiting my learning dashboard! This repository documents my journey from beginner to full-stack developer. 
+
+**If you're on a similar journey, let's connect and learn together!**
 
 ---
 
 <div align="center">
 
+### 🎯 Goal: Become a Professional MERN Stack Developer
+
+### 📅 Timeline: 6-8 Months
+
+### 🚀 Status: 20% Complete - On Track!
+
+---
+
 [![Profile Views](https://komarev.com/ghpvc/?username=kosariyadhanesh&color=blue&style=flat-square)](https://github.com/kosariyadhanesh)
 
-**Made with ❤️ by Dhanesh Kosariya**
+**Made with ❤️ & ☕ by Dhanesh Kosariya**
 
-*Last updated: June 2026* | **Keep Learning, Keep Growing!** 🚀
+*Last Updated: June 2026* | **Keep Learning, Keep Growing!** 🚀
 
 </div>
