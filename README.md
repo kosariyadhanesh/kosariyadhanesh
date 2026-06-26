@@ -81,9 +81,9 @@ I'm always open to:
 ### Connect With Me:
 
 - 💼 **LinkedIn:** [linkedin.com/in/dhanesh-kosariya-0744031b8/](https://www.linkedin.com/in/dhanesh-kosariya-0744031b8/)
-- 🗺️ **Roadmap.sh:** [roadmap.sh/u/kosariyadhaneh](https://roadmap.sh/u/kosariyadhanesh)
-- 🌐 **Portfolio:** [kosariyadhanesh.github.io](https://kosariyadhanesh.github.io/Basic-HTML-Website/)
-- 📧 **Email:** dhaneshkosariya@gmail.com
+- 🗺️ **Roadmap.sh:** [roadmap.sh/u/kosariyadhaneh](https://roadmap.sh/u/kosariyadhaneh)
+- 🌐 **Portfolio:** [kosariyadhanesh.github.io](https://kosariyadhanesh.github.io/single-page-cv/)
+- 📧 **Email:** dhaneshkosariya.mac@gmail.com
 
 ---
 
