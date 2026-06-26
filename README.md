@@ -32,35 +32,99 @@ Building strong fundamentals with semantic HTML projects:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-```
-Frontend:    HTML5 • CSS3 • JavaScript • React (Learning)
-Backend:     Node.js • Express.js (Learning)
-Database:    MongoDB (Learning)
-Tools:       Git • GitHub • VS Code • Roadmap.sh
-Hosting:     GitHub Pages
-```
+### 💻 **Frontend Development**
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</div>
+
+**Key Competencies:**
+- ✅ Semantic HTML5 & Accessibility (a11y)
+- ✅ CSS3 - Flexbox, Grid, Animations, Responsive Design
+- ✅ Vanilla JavaScript - DOM Manipulation, ES6+
+- ✅ React.js - Components, Hooks, State Management (Learning)
+
+### 🔧 **Backend Development**
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</div>
+
+**Currently Learning:**
+- 🎯 Server-side development with Node.js
+- 🎯 RESTful API Design with Express.js
+- 🎯 Middleware & Authentication
+
+### 💾 **Database**
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+**Focus Areas:**
+- 🎯 Document-based database design
+- 🎯 Schema creation & validation
+- 🎯 CRUD operations
+
+### 🛠️ **Developer Tools & Platforms**
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
+
+</div>
+
+**Tools & Platforms:**
+- 📌 Version Control: Git & GitHub
+- 📌 Code Editor: VS Code
+- 📌 Hosting: GitHub Pages
+- 📌 Learning Path: Roadmap.sh
 
 ---
 
 ## 📈 Learning Roadmap
 
-- ✅ **HTML Fundamentals** - Semantic markup, accessibility
-- ⏳ **CSS Mastery** - Flexbox, Grid, Animations, Responsive Design
-- ⏳ **JavaScript** - ES6+, DOM manipulation, async operations
-- ⏳ **Frontend Framework** - React.js
-- ⏳ **Backend Development** - Node.js & Express.js
-- ⏳ **Database** - MongoDB & data modeling
-- ⏳ **Full Stack Projects** - Complete MERN applications
+```
+HTML Foundation ✅
+    ↓
+CSS & Responsive Design (In Progress)
+    ↓
+JavaScript Mastery (Next)
+    ↓
+Frontend Framework - React
+    ↓
+Backend - Node.js & Express
+    ↓
+Database - MongoDB
+    ↓
+Full Stack Projects (MERN)
+```
+
+**Progress:** 15% → 20% Complete 🚀
 
 ---
 
 ## 🎓 Education & Development
 
 - **Current:** BCA (Bachelor of Computer Applications)
-- **Learning Path:** Following [Roadmap.sh](https://roadmap.sh/u/kosariyadhaneh) for structured learning
+- **Learning Path:** Following [Roadmap.sh](https://roadmap.sh/u/kosariyadhanesh) for structured learning
 - **Focus:** Building practical projects while learning
+- **Commitment:** Daily coding & continuous improvement
 
 ---
 
@@ -80,10 +144,14 @@ I'm always open to:
 
 ### Connect With Me:
 
-- 💼 **LinkedIn:** [linkedin.com/in/dhanesh-kosariya-0744031b8/](https://www.linkedin.com/in/dhanesh-kosariya-0744031b8/)
-- 🗺️ **Roadmap.sh:** [roadmap.sh/u/kosariyadhaneh](https://roadmap.sh/u/kosariyadhaneh)
-- 🌐 **Portfolio:** [kosariyadhanesh.github.io](https://kosariyadhanesh.github.io/single-page-cv/)
-- 📧 **Email:** dhaneshkosariya.mac@gmail.com
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanesh-kosariya-0744031b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kosariyadhanesh)
+[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/kosariyadhanesh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhaneshkosariya.mac@gmail.com)
+
+</div>
 
 ---
 
@@ -96,15 +164,59 @@ I'm always open to:
 
 ---
 
-## ⭐ Pro Tips for Visitors
+## ⭐ Project Highlights
 
-1. Check out my projects to see my coding style and progress
-2. All projects have live demos - see them in action!
-3. Code is well-structured and follows best practices
-4. Feel free to star ⭐ repositories you find useful
+### Featured Repositories (All Starred ⭐)
+- 🌟 6 HTML Learning Projects
+- 🌟 GitHub Pages Hosting
+- 🌟 Semantic Markup Focus
+- 🌟 Accessibility Best Practices
 
 ---
 
-*Last updated: June 2026* | **Feel free to explore and connect!** 🚀
+## 📈 Stats & Milestones
 
-[![](https://komarev.com/ghpvc/?username=kosariyadhanesh&color=blue)](https://github.com/kosariyadhanesh)
+| Metric | Value |
+|--------|-------|
+| **Total Projects** | 7 |
+| **All Starred** | ✅ |
+| **Stars** | 7 ⭐ |
+| **HTML Projects** | 6 |
+| **Learning Status** | 🔥 Active |
+| **Commits** | 50+ |
+| **Repositories** | All Public |
+
+---
+
+## 🎯 Next Goals
+
+- ✅ ~~Master HTML Fundamentals~~ (In Progress)
+- 🔄 Build 5+ CSS Projects
+- 🔄 Create 10+ JavaScript Projects
+- ⏳ Learn React.js
+- ⏳ Build Full-Stack Applications
+- ⏳ Contribute to Open Source
+
+---
+
+## 💬 Let's Code Together!
+
+I'm passionate about learning and building. If you're interested in:
+- 👥 Mentorship or guidance
+- 🤝 Collaboration
+- 💼 Opportunities
+- 📞 General discussion
+
+Feel free to reach out! I'm always happy to connect with fellow developers.
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=kosariyadhanesh&color=blue&style=flat-square)](https://github.com/kosariyadhanesh)
+
+**Made with ❤️ by Dhanesh Kosariya**
+
+*Last updated: June 2026* | **Keep Learning, Keep Growing!** 🚀
+
+</div>
